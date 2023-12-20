@@ -1,0 +1,2 @@
+worker1(id= 1 , salary= 5000, mark= c, grade= 4, var= 4)8
+worker2(id= 2 , salary= 5500, mark= a, grade= 5, var= 5)8
